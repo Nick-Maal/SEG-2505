@@ -19,8 +19,11 @@ We chose React for its efficient component-based architecture, TailwindCSS for i
 <a name="cont"></a>
 ## Contributors
 - Michael Haddad 300298328
-- Sushi
-- ...
+- Nicolas Maalouly #300272916
+- Gennady Kriss #300283075
+- Sacha Arseneault #300152630
+- Julien Kapro # 300173066
+- Xavier Lermusieaux #300152646
 
 <a name="lics"></a>
 ## License
