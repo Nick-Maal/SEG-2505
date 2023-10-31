@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467854828343",
+    "project_id": "seg2505-lab5-ec6d4",
+    "storage_bucket": "seg2505-lab5-ec6d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467854828343:android:9c26298e8d3bf73e09f0b2",
+        "android_client_info": {
+          "package_name": "com.example.lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCovPZk6mw13Ow5QCfhapdTnufeJAhcVQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
